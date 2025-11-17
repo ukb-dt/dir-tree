@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# bash <(curl -s https://raw.githubusercontent.com/abikesa/directory-tree/refs/heads/main/ukb.sh) ./
+# bash <(curl -s https://raw.githubusercontent.com/ukb-dt/directory-tree/refs/heads/main/ukb.sh) ./
 # === Config === ./ukb.sh ukubona-llc.github.io --raw
 TARGET_DIR=""
 DEPTH=3
